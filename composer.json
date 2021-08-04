@@ -15,5 +15,6 @@
     "require": {
         "swiftmailer/swiftmailer": "^6.0",
         "monolog/monolog": "^2.3"
-    }
+    },
+    "minimum-stability": "dev"
 }
