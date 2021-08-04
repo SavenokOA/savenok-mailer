@@ -1,6 +1,0 @@
-[2021-08-04T03:10:43.251645+03:00] my_logger.INFO: Sending email to oleg2455553535@gmail.com | oleg2455553535@gmail.com with registration_approve subject. [] []
-[2021-08-04T03:11:36.199634+03:00] MailMessenger.INFO: Sending email to oleg2455553535@gmail.com | oleg2455553535@gmail.com with registration_approve subject. [] []
-[2021-08-04T03:30:06.635151+03:00] MailMessenger.INFO: Sending email to oleg2455553535@gmail.com | oleg2455553535@gmail.com with the_order_in_processing subject. [] []
-[2021-08-04T03:39:25.929543+03:00] MailMessenger.INFO: Sending email to oleg2455553535@gmail.com | oleg2455553535@gmail.com with the_order_in_processing subject. [] []
-[2021-08-04T03:40:03.510652+03:00] MailMessenger.INFO: Sending email to oleg2455553535@gmail.com | oleg2455553535@gmail.com with the_order_in_processing subject. [] []
-[2021-08-04T03:40:34.128464+03:00] MailMessenger.INFO: Sending email to oleg2455553535@gmail.com | oleg2455553535@gmail.com with the_order_in_processing subject. [] []
